@@ -1,7 +1,3 @@
-Here is the cleaned-up and well-structured version of your Markdown documentation:
-
----
-
 # AWS Cloud Manager Script – Learning Documentation
 
 ## 📌 Project Overview
